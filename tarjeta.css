@@ -1,0 +1,26 @@
+body{
+	background: black;
+	}
+
+.postcard {
+	background: white; width: 500px;height: 300px; margin: auto;
+	position: absolute; top:50%; left: 50%; transform: translate(-50%,-50%)}
+
+.divimg {
+ position:absolute; top:5%; left:87%;
+}
+
+img{ width: 50px;height: 50px;
+
+}
+
+.divinputdatos{
+	position:absolute; top:28%; left:60%;
+ 
+}
+
+.divboton{
+	position: absolute; bottom: 20%; left: 40%;
+
+}
+
